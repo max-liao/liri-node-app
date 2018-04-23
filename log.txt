@@ -43,3 +43,25 @@ Plot: After the events of Captain America: Civil War, King T'Challa returns home
 Country(s) of Production: USA
 do-what-it-says
 spotify-this-song "I Want it That Way"
+do-what-it-says
+spotify-this-song "I Want it That Way"
+movie-this Liar Liar
+
+Title: Liar Liar
+
+Actors: Jim Carrey, Maura Tierney, Justin Cooper, Cary Elwes
+Country(s) of Production: USA
+Language: English
+
+Plot: Fletcher Reede, a fast talking attorney, habitual liar, and divorced father is an incredibly successful lawyer who has built his career by lying. He has a habit of giving precedence to his job and always breaking promises to be with his young son Max, but Fletcher lets Max down once too often, for missing his own son's birthday party. But until then at 8:15 Max has decided to make an honest man out of him as he wishes for one whole day his dad couldn't tell a lie. When the wish comes true all Fletcher can do is tell the truth and cannot tell one lie. Uh-oh for Fletcher!
+Year: 1997; MPAA Rating: PG-13
+IMDB: 6.8; Rotten Tomatoes: 6.8/10
+my-tweets
+
+Tweet #1
+created at: Sat Apr 14 16:56:34 +0000 2018
+Second Test!
+
+Tweet #2
+created at: Wed Apr 11 18:29:36 +0000 2018
+Test
